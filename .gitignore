@@ -1,18 +1,13 @@
-# Virtual Environment
 venv/
 .gesture_env/
 .env/
 
-# Python
 __pycache__/
 *.pyc
 
-# Model weights
 *.pt
 *.pth
 
-# Jupyter
 .ipynb_checkpoints/
 
-# OS
 .DS_Store
